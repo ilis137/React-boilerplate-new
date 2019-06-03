@@ -9,6 +9,7 @@ This is a minimalistic react boilerplate project using the following technologie
 - [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
 - [CSS Modules](https://github.com/css-modules/css-modules) for styling
 - [Webpack](https://webpack.github.io/) for compilation
+  -Jest for testing
 
 ### Install
 
