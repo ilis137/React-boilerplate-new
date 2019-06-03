@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 56px;
+  color: skyblue;
+  font-weight: bold;
+}
+
+.container {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: skyblue;
+  font-weight: bold;
+  width: 80%;
+  margin: auto;
+}
+
+.container__title {
+  font-size: 32px;
+}
+.container__image {
+  height: 200px;
+  width: 200px;
+  text-align: center;
+}
