@@ -1,6 +1,6 @@
 # Simple React Boilerplate
 
-Start developing React JS applications easily with the included tooling. Using gulp with browserify and jasmine for testing.
+Start developing React JS applications easily with the included tooling. Built using Webpack ,ESlint  for linting and Jest for testing.
 
 ### Notes
 
